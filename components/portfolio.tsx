@@ -1,4 +1,4 @@
-import { dataPortfolio, dataTestimonials } from "@/data";
+import { dataPortfolio } from "@/data";
 import Title from "./shared/title";
 import Image from "next/image";
 import Link from "next/link";
