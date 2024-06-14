@@ -6,8 +6,6 @@ import Introduction from "@/components/introduccion";
 import Navbar from "@/components/navbar";
 import Portfolio from "@/components/portfolio";
 import Services from "@/components/services";
-import Testimonials from "@/components/testimonials";
-
 
 export default function Home() {
   return (
