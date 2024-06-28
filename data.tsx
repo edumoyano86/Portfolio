@@ -58,13 +58,13 @@ export const dataPortfolio = [
         urlGithub: "https://github.com/edumoyano86/AppClima-react",
         urlDemo: "https://appclimaedumoyano86.netlify.app",
     },
-    // {
-    //     id: 2,
-    //     title: "Desarrollo Web Ágil",
-    //     image: "/image-2.jpg",
-    //     urlGithub: "#!",
-    //     urlDemo: "#!",
-    // },
+    {
+        id: 2,
+        title: "Clon de Netflix",
+        image: "/image-2.jpg",
+        urlGithub: "https://github.com/edumoyano86/Clon-Netflix",
+        urlDemo: "https://clonn.netlify.app/login",
+    },
     // {
     //     id: 3,
     //     title: "Estrategias Web",
