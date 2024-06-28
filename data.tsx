@@ -63,7 +63,7 @@ export const dataPortfolio = [
         title: "Clon de Netflix",
         image: "/image-2.jpg",
         urlGithub: "https://github.com/edumoyano86/Clon-Netflix",
-        urlDemo: "https://clonn.netlify.app/login",
+        urlDemo: "https://clonn.netlify.app",
     },
     // {
     //     id: 3,
